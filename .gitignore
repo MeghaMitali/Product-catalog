@@ -1,0 +1,25 @@
+# secrets and env
+.env
+.env.*
+!.env.example
+
+# node / backend
+node_modules/
+dist/
+coverage/
+backend/data/
+*.log
+
+# android
+.gradle/
+build/
+local.properties
+captures/
+*.iml
+*.apk
+*.aab
+
+# ide / os
+.idea/
+.vscode/
+.DS_Store
