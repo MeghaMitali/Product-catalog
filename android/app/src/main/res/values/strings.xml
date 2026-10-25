@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Product Catalog</string>
+    <string name="home_title">Products</string>
+    <string name="search_title">Search</string>
+    <string name="enquiry_title">Enquire</string>
+    <string name="detail_title">Product details</string>
+    <string name="search_hint">Search products</string>
+    <string name="retry">Retry</string>
+    <string name="empty_products">No products available right now.</string>
+    <string name="empty_search">No products match your search.</string>
+    <string name="loading">Loading…</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="phone_label">Phone</string>
+    <string name="message_label">Message</string>
+    <string name="submit">Submit</string>
+    <string name="done">Done</string>
+    <string name="enquire">Enquire</string>
+    <string name="product_image_desc">Product image</string>
+    <string name="back_desc">Back</string>
+    <string name="search_icon_desc">Search</string>
+    <string name="products_section_title">Products</string>
+    <string name="featured_section_title">Featured</string>
+    <string name="swipe_featured_hint">Swipe left or right to explore</string>
+    <string name="add_to_top_rated">Add to top rated</string>
+    <string name="top_rated">Top rated</string>
+</resources>
